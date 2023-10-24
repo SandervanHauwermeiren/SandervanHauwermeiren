@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandervanHauwermeiren
 - 👀 I’m interested in C++, x86 Reverse engineering, lua(u)
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning python
 - 📫 How to reach me:
 - Discord: idevastate_jpeg
